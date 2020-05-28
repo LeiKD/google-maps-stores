@@ -1,7 +1,7 @@
 function initMap() {
   let eldoret = {
-    lat: 0.5143, 
-    lng: 35.2698
+    lat: 34.0522, 
+    lng: -118.2437
   }
   var map = new google.maps.Map(document.getElementById('map'), {
     center: eldoret,
